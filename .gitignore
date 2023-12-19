@@ -1,3 +1,4 @@
+*.mov
 *.pyc
 .DS_Store
 /src/mpl-styles
